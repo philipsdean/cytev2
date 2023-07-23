@@ -1,6 +1,12 @@
 # 🧐 Cyte
 
+
+> Regarding the original developer and repo: https://www.reddit.com/r/macapps/comments/1408l2r/what_happened_to_cyteio_the_opensource/
+![Cyte Update](assets/images/cyte-update.jpg)
+
+
 🚧 Work in progress - this is beta software, use with care
+
 
 A background screen recorder for easy history search.
 If you choose to supply an OpenAI key, or a local language model like LLaMA, it can act as a knowledge base. Be aware that transcriptions will be sent to OpenAI when you chat if you provide an OpenAI API key.
